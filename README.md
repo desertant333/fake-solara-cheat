@@ -5,7 +5,8 @@ Welcome to the HACOK'S DOOM! This is the fake solara cheat
 ## What it contains?
 Well it contains:
 > Pankoza's gdi effects
-> | A lot of debuggers ( aka the restrictions)
+
+>  A lot of debuggers ( aka the restrictions)
 
 >  DWM crash (may not work)
 
